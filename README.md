@@ -18,5 +18,5 @@ The Etch A Sketch® product name and configuration of the Etch A Sketch®
 product are registered trademarks owned by The Ohio Art Company.
 </h5>
 <br>
-© 2019 Richard A. Benson <richardbenson91477@gmail.com><br>
+© 2019 Richard A. Benson <richardbenson91477@protonmail.com><br>
 ---
